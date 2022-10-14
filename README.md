@@ -47,6 +47,11 @@ Link template 2 ( or see table template tag):
 Link the template 3 ( or see table template tag):
 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ## Summary
 The link above shows the suggest templates to use before deploying data to platform in SAP to optimize Master Data quality in Procurement Process.
 
